@@ -6,5 +6,5 @@ Cuando quiero comprar algo por internet me abruma la cantidad de opciones que ha
 
 
 
-Documento de \[configuración](conf/configuración) del proyecto.
+Documento de \[configuración](conf/configuracion.md) del proyecto.
 
