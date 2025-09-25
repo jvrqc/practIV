@@ -1,10 +1,11 @@
 # practIV
 
+Descripción del problema:
+
+Debido a mi modo de vida debo realizar frecuentes viajes en medios de transporte público, y el informarme de qué transporte es el más adecuado para mí siempre me consume mucho más tiempo del necesario. Siempre me encuentro con problemas comunes de que el precio es más elevado de la cuenta y en otro medio de transporte resulta más barato para el mismo destino y no me he dado cuenta. O también, que una vez elegido el transporte más económico, este no tiene unos horarios de salida y llegada que a mí me vayan bien.
 
 
-Cuando quiero comprar algo por internet me abruma la cantidad de opciones que hay de páginas donde comprar, con distintos precios en cada una. Siempre intento buscar el precio más barato y puedo tardar horas en mirar el producto en cada una de las distintas páginas donde se vende y comparar precios entre una página y otra para ver donde me sería más económico comprarlo. E incluso cuando ya he comparado todas las páginas, puede que me encuentre con que la fecha de envío sea muy tardía y no me venga bien, por lo que tengo que volver a mirar para encontrar una página que envíe el producto dentro de un intervalo de tiempo razonable.
-
-
+Configuración del proyecto:
 
 Documento de [configuración](conf/configuracion.md) del proyecto.
 
