@@ -1,2 +1,2 @@
-!\[conf1](conf1.png)
+![conf1](conf1.png)
 
