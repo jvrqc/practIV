@@ -1,8 +1,8 @@
 # practIV
 
-Descripción del problema:
+Cliente: Mujer residente en España.
 
-Debido a mi modo de vida debo realizar frecuentes viajes en medios de transporte público, y el informarme de qué transporte es el más adecuado para mí siempre me consume mucho más tiempo del necesario. Siempre me encuentro con problemas comunes de que el precio es más elevado de la cuenta y en otro medio de transporte resulta más barato para el mismo destino y no me he dado cuenta. O también, que una vez elegido el transporte más económico, este no tiene unos horarios de salida y llegada que a mí me vayan bien.
+Problema: Difícil acceso rápido y claro a información del porcentaje y número de victimas de agresión sexual, y qué porcentaje de estas víctimas fueron además sujeto de agresión sexual con penetración en diferentes comunidades autónomas de España. Por consiguiente, desconocimiento de las mujeres sobre que partes del país son más propensas a estos crímenes y qué probabilidad hay de que ella sea víctima de lo mismo.
 
 
 Configuración del proyecto:
