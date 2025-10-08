@@ -16,5 +16,5 @@ Documento de [configuración](conf/configuracion.md) del proyecto.
 
 Material Adicional:
 
-Documento de \[material adicional](docs/materialAdicional.md) del proyecto.
+Documento de [material adicional](docs/materialAdicional.md) del proyecto.
 
