@@ -10,6 +10,7 @@ Material Objetivo 1:
   - [Historia de Usuario 1](https://github.com/jvrqc/practIV/issues/2)
   - [Milestone 0](https://github.com/jvrqc/practIV/milestone/1)
   - [Milestone 1](https://github.com/jvrqc/practIV/milestone/2)
+  - [Milestone 2](https://github.com/jvrqc/practIV/milestone/3)
 
 Configuración del proyecto:
 Documento de [configuración](conf/configuracion.md) del proyecto.
